@@ -1,0 +1,36 @@
+html{
+    margin: 0px;
+    padding: 0px;
+   background: url('back1.gif');
+    
+    background-position: center;
+    
+}
+body{
+    width: 1000px;
+    
+    text-align: center;
+}
+table{
+   
+     -webkit-transition-duration: 1s;
+    -moz-transition-duration: 1s;
+    -transition-duration: 1s;
+    margin-top: 100px;
+    margin-left: 200px;
+    background: white;
+    border-radius: 30px;
+    box-shadow: 0px 0px 120px white;
+}
+#big_wrapper table{
+     background: url('../conback.gif');
+     
+}
+
+
+#home{
+    position: fixed;
+    left: 10px;
+    top: 10px;
+}
+    

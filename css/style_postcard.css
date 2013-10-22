@@ -1,0 +1,29 @@
+html{
+    margin: 0px;
+    padding: 0px;
+    background: url('../bg.jpg');
+    background-repeat: repeat;
+    
+}
+body{
+    width: 1000px;
+}
+#big_wrapper{
+    -webkit-transition-duration: 1s;
+    -moz-transition-duration: 1s;
+    -transition-duration: 1s;
+    width: 800px;
+    background: white;
+    border-radius: 25px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+#home{
+    position: fixed;
+    left: 300px;
+    top: 60px;
+}
+    
