@@ -1,6 +1,0 @@
-<?php
-define('MYSQL_HOST','cseb.db.8968176.hostedresource.com');
-define('MYSQL_USER','cseb');
-define('MYSQL_PASSWORD','Suryakumar92@');
-define('MYSQL_DB','cseb');
-?>
